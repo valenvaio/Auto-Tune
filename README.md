@@ -69,6 +69,11 @@ Not only does this assist administrators in managing a server's economy, but it 
 
 Feel free to create a fork of the repository and open a pull request to contribute. If you have any serious issues please report them on the issues tab. For other problems please use the discord below. Please respect the license.
 
+## :bell: Join the server mcoldies.ru to test plugin
+
+> [![Discord](https://img.shields.io/discord/748222485975269508.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/VmbKHGatJV)
+>
+> 
 ## :bell: Join the community
 
 > [![Discord](https://img.shields.io/discord/748222485975269508.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bNVVPe5)
